@@ -2,8 +2,8 @@
 React alongside with webpack boilerplate project.
 
 ## Including
-**React 16** 
-**React Route 14,**
+**React 16** (\n)
+**React Route 14**
 **Semantic UI as the CSS Framework**
 **Hot Module Replacement**
 **CSS Autoprefixer**
@@ -14,10 +14,10 @@ React alongside with webpack boilerplate project.
 **Webpack Bundle Analyzer**
 
 ## Pre-requisites
-**Yarn or NPM**
+**Yarn or NPM and**
 **Node**
 
-* This project is based on [CodeCamp - Learn Webpack for React Tutorial](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060).
+* This project is based on [CodeCamp - Learn Webpack for React Tutorial](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060).*
 
-![React Logo]
-(https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+
+(https://cdn-images-1.medium.com/max/512/1*qUlxDdY3T-rDtJ4LhLGkEg.png)
