@@ -2,7 +2,7 @@
 React alongside with webpack boilerplate project.
 
 ## Including
-**React 16** (\n)
+**React 16**
 **React Route 14**
 **Semantic UI as the CSS Framework**
 **Hot Module Replacement**
@@ -19,5 +19,4 @@ React alongside with webpack boilerplate project.
 
 * This project is based on [CodeCamp - Learn Webpack for React Tutorial](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060).*
 
-
-(https://cdn-images-1.medium.com/max/512/1*qUlxDdY3T-rDtJ4LhLGkEg.png)
+![image](https://cdn-images-1.medium.com/max/512/1*qUlxDdY3T-rDtJ4LhLGkEg.png)
