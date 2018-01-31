@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
       {children}
       <Divider />
       <p className={pullRight}>
-        Made with <Icon name="heart" color="red" /> by Esau Silva
+        Copyright <i class="copyright icon"></i>
       </p>
     </Container>
   );
